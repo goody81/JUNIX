@@ -1,7 +1,6 @@
 # JUNIX
 Deterministic unit-manifold tensors with cryptographic policy enforcement
-cd ~/junix
-cat > README.md << 'EOF'
+
 # JUNIX
 
 **Deterministic Unit-Manifold Tensors with Cryptographic Policy Enforcement**
